@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #define MAX_LINES 100
 
 int shortest_line_index(int lines[], int n){
